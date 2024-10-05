@@ -6,6 +6,7 @@ This project is part of a larger initiative to build a credit card fraud detecti
 # Dataset Information
 Source: The dataset contains simulated credit card transaction data from 1,000 customers and 800 merchants, spanning the period from 1st January 2019 to 31st December 2020. This data was generated using the Sparkov Data Generation Tool and accessed from Kaggle.
 Details: The dataset consists of legitimate and fraudulent transactions, simulating real-world class imbalance in fraud detection.
+Dataset Link: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 # Data Collection:
 Accessed the dataset from Kaggle.
